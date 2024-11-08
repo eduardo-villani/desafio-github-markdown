@@ -3,8 +3,12 @@
 Criando um repositório para aprender a compartilhar, editar, "branchear" e "comitar" versões.
 
 * I´ve have some knowledge on Penetration Testing technics. Got a especialization certificate from "Hackers do Bem".
-* I also know some JavaScrip (Udemy course almost finished)
+* I also know some JavaScrip (Udemy course almost finished).
 
+* Tenho conhecimento em Pentest (teste de penetração). Tenho certificado de especialização do curso "Harckers do Bem".
+* Sei programar em JavaScrip (Curso no Udemy quase finalizado).
+
+Colocar imagens dos certificados aqui também ajuda. 
 
 ## What I like to do:
 
